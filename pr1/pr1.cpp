@@ -3,7 +3,7 @@
 #include <iostream>
 #define _CRT_SECURE_NO_WARNINGS
 
-//Функция для вычисления длины числа 
+//Функция для вычисления длины числа типа int
 int len_int(int num)
 {
     int length = 0;
